@@ -1,0 +1,4 @@
+E:\VS Projects\PyramidHierarchyImporter\obj\Debug\net8.0\PyramidHierarchyImporter.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS Projects\PyramidHierarchyImporter\obj\Debug\net8.0\PyramidHierarchyImporter.AssemblyInfoInputs.cache
+E:\VS Projects\PyramidHierarchyImporter\obj\Debug\net8.0\PyramidHierarchyImporter.AssemblyInfo.cs
+E:\VS Projects\PyramidHierarchyImporter\obj\Debug\net8.0\PyramidHierarchyImporter.csproj.CoreCompileInputs.cache
