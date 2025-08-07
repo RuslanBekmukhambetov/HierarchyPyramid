@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PyramidHierarchyImporter.Interfaces
+namespace PyramidHierarchyImporter.src.Interfaces
 {
     /// <summary>
     /// Интерфейс системы логирования

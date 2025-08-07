@@ -1,9 +1,9 @@
-﻿using PyramidHierarchyImporter.Interfaces;
-using PyramidHierarchyImporter.Services;
+﻿using PyramidHierarchyImporter.Services;
 using GemBox.Spreadsheet;
+using PyramidHierarchyImporter.src.Interfaces;
 
 
-namespace PyramidHierarchyImporter
+namespace PyramidHierarchyImporter.src
 {
     /// <summary>
     /// Главный класс для запуска пользовательских скриптов

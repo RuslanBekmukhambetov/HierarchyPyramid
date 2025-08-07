@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PyramidHierarchyImporter.Models
+namespace PyramidHierarchyImporter.src.Models
 {
     /// <summary>
     /// Data Transfer Object (DTO) для передачи информации о Топологии (Иерархии) сети

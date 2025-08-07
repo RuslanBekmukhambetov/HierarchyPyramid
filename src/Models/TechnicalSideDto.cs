@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PyramidHierarchyImporter.Models
+namespace PyramidHierarchyImporter.src.Models
 {
     /// <summary>
     /// DTO для описания одной из сторон Топологии сети (высокой (35 кВ+) и низкой(0,4 кВ))

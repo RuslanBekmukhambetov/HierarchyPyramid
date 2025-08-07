@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using GemBox.Spreadsheet;
-using PyramidHierarchyImporter.Interfaces;
+using PyramidHierarchyImporter.src.Interfaces;
 
-namespace PyramidHierarchyImporter
+namespace PyramidHierarchyImporter.src
 {
     /// <summary>
     /// Строитель настроек для скрипта импорта
@@ -46,7 +46,7 @@ namespace PyramidHierarchyImporter
         /// <param name="path">Полный путь к файлу</param>
         public SettingsBuilder SetWorkbookAndWorksheet(string path)
         {
-            _worksheet = GemBox.Spreadsheet.ExcelFile.Load(path)?.Worksheets.FirstOrDefault();
+            _worksheet = ExcelFile.Load(path)?.Worksheets.FirstOrDefault();
             if (_worksheet == null )
             {
                 _logger.Log($"Ошибка: не найден файл {path}");

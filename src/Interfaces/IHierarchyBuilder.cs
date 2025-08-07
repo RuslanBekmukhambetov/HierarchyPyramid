@@ -1,11 +1,11 @@
-﻿using PyramidHierarchyImporter.Models;
+﻿using PyramidHierarchyImporter.src.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PyramidHierarchyImporter.Interfaces
+namespace PyramidHierarchyImporter.src.Interfaces
 {
     /// <summary>
     /// Сервис для построения связанной иерархии энергообъекта

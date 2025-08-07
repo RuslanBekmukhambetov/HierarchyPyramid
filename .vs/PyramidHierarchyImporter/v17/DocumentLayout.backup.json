@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "E:\\VS Projects\\PyramidHierarchyImporter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCE45BE6-4347-42CE-980A-D4FF0B1B54F4}|PyramidHierarchyImporter.csproj|e:\\vs projects\\pyramidhierarchyimporter\\script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DCE45BE6-4347-42CE-980A-D4FF0B1B54F4}|PyramidHierarchyImporter.csproj|solutionrelative:script.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DCE45BE6-4347-42CE-980A-D4FF0B1B54F4}|PyramidHierarchyImporter.csproj|e:\\vs projects\\pyramidhierarchyimporter\\src\\columnmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE45BE6-4347-42CE-980A-D4FF0B1B54F4}|PyramidHierarchyImporter.csproj|solutionrelative:src\\columnmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE45BE6-4347-42CE-980A-D4FF0B1B54F4}|PyramidHierarchyImporter.csproj|e:\\vs projects\\pyramidhierarchyimporter\\src\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE45BE6-4347-42CE-980A-D4FF0B1B54F4}|PyramidHierarchyImporter.csproj|solutionrelative:src\\settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE45BE6-4347-42CE-980A-D4FF0B1B54F4}|PyramidHierarchyImporter.csproj|e:\\vs projects\\pyramidhierarchyimporter\\src\\excellogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE45BE6-4347-42CE-980A-D4FF0B1B54F4}|PyramidHierarchyImporter.csproj|solutionrelative:src\\excellogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE45BE6-4347-42CE-980A-D4FF0B1B54F4}|PyramidHierarchyImporter.csproj|e:\\vs projects\\pyramidhierarchyimporter\\src\\settingsbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE45BE6-4347-42CE-980A-D4FF0B1B54F4}|PyramidHierarchyImporter.csproj|solutionrelative:src\\settingsbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +39,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Script.cs",
-              "DocumentMoniker": "E:\\VS Projects\\PyramidHierarchyImporter\\Script.cs",
-              "RelativeDocumentMoniker": "Script.cs",
-              "ToolTip": "E:\\VS Projects\\PyramidHierarchyImporter\\Script.cs",
-              "RelativeToolTip": "Script.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Title": "ColumnMap.cs",
+              "DocumentMoniker": "E:\\VS Projects\\PyramidHierarchyImporter\\src\\ColumnMap.cs",
+              "RelativeDocumentMoniker": "src\\ColumnMap.cs",
+              "ToolTip": "E:\\VS Projects\\PyramidHierarchyImporter\\src\\ColumnMap.cs",
+              "RelativeToolTip": "src\\ColumnMap.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAA4wGYAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-07T19:37:10Z",
+              "WhenOpened": "2025-08-07T20:10:20.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExcelLogger.cs",
+              "DocumentMoniker": "E:\\VS Projects\\PyramidHierarchyImporter\\src\\ExcelLogger.cs",
+              "RelativeDocumentMoniker": "src\\ExcelLogger.cs",
+              "ToolTip": "E:\\VS Projects\\PyramidHierarchyImporter\\src\\ExcelLogger.cs",
+              "RelativeToolTip": "src\\ExcelLogger.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T20:10:17.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SettingsBuilder.cs",
+              "DocumentMoniker": "E:\\VS Projects\\PyramidHierarchyImporter\\src\\SettingsBuilder.cs",
+              "RelativeDocumentMoniker": "src\\SettingsBuilder.cs",
+              "ToolTip": "E:\\VS Projects\\PyramidHierarchyImporter\\src\\SettingsBuilder.cs",
+              "RelativeToolTip": "src\\SettingsBuilder.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T20:10:12.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Settings.cs",
+              "DocumentMoniker": "E:\\VS Projects\\PyramidHierarchyImporter\\src\\Settings.cs",
+              "RelativeDocumentMoniker": "src\\Settings.cs",
+              "ToolTip": "E:\\VS Projects\\PyramidHierarchyImporter\\src\\Settings.cs",
+              "RelativeToolTip": "src\\Settings.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAzwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T20:10:07.818Z",
               "EditorCaption": ""
             }
           ]

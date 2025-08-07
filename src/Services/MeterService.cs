@@ -1,11 +1,11 @@
-﻿using PyramidHierarchyImporter.Interfaces;
+﻿using PyramidHierarchyImporter.src.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PyramidHierarchyImporter.Services
+namespace PyramidHierarchyImporter.src.Services
 {
     /// <inheritdoc/>
     /// <remarks>

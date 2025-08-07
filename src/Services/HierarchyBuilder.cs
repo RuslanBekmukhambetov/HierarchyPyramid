@@ -1,5 +1,5 @@
-﻿using PyramidHierarchyImporter.Interfaces;
-using PyramidHierarchyImporter.Models;
+﻿using PyramidHierarchyImporter.src.Interfaces;
+using PyramidHierarchyImporter.src.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PyramidHierarchyImporter.Services
+namespace PyramidHierarchyImporter.src.Services
 {
     /// /// <inheritdoc/>
     /// <remarks>

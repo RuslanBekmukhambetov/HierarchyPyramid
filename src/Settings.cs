@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PyramidHierarchyImporter
+namespace PyramidHierarchyImporter.src
 {
     /// <summary>
     /// Контейнер настроек для скрипта импорта иерархий
@@ -56,14 +56,14 @@ namespace PyramidHierarchyImporter
         public Settings(ExcelWorksheet worksheet, IEnumerable<ElectricityMeter> meters, string technicalClsName, string geographicClsName, DirectoryOfCommonUserItems directoryOfCommonUserItems,
                 int headerRowIndex, int startColumnIndex, int resultColumnIndex)
         {
-            this.Worksheet = worksheet;
-            this.Meters = meters;
-            this.GeographicCls = ClassifierOfMeterPointsByGeoLocation.GetInstances().FirstOrDefault(cls => cls.AttributeCaption == geographicClsName);
-            this.TechnicalCls = ClassifierOfMeterPointsByEnergyEntities.GetInstances().FirstOrDefault(cls => cls.AttributeCaption == technicalClsName);
-            this.DirectoryOfCommonUserItems = directoryOfCommonUserItems;
-            this.HeaderRowIndex = headerRowIndex;
-            this.StartColumnIndex = startColumnIndex;
-            this.ResultColumnIndex = resultColumnIndex;
+            Worksheet = worksheet;
+            Meters = meters;
+            GeographicCls = ClassifierOfMeterPointsByGeoLocation.GetInstances().FirstOrDefault(cls => cls.AttributeCaption == geographicClsName);
+            TechnicalCls = ClassifierOfMeterPointsByEnergyEntities.GetInstances().FirstOrDefault(cls => cls.AttributeCaption == technicalClsName);
+            DirectoryOfCommonUserItems = directoryOfCommonUserItems;
+            HeaderRowIndex = headerRowIndex;
+            StartColumnIndex = startColumnIndex;
+            ResultColumnIndex = resultColumnIndex;
         }
     }
 }

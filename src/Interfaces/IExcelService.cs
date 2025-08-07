@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using PyramidHierarchyImporter.Models;
+using PyramidHierarchyImporter.src.Models;
 
-namespace PyramidHierarchyImporter.Interfaces
+namespace PyramidHierarchyImporter.src.Interfaces
 {
     /// <summary>
     /// Сервис для работы с Excel-файлами

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PyramidHierarchyImporter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+863729794db029a212a75e298a765373f68689c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PyramidHierarchyImporter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PyramidHierarchyImporter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
